@@ -16,7 +16,7 @@ Gatling structure can be defined in 4 different parts:
 - Scenario definition 
 
   The core of your test! A Scenario is a group of actions (GET, POST, etc.) that will be executed in order to simulate a user 
-  interaction with your application.
+  interaction with your application
   
 - Simulation definition 
 
